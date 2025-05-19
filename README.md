@@ -1,12 +1,4 @@
 # Installations
 ```
-git clone https://github.com/freelancermijan/.gf.git
-```
-
-## Updating
-
-```
-cd .gf/
-sudo git pull
-cd
+git clone https://github.com/h6nt3r/.gf.git
 ```
